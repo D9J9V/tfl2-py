@@ -1,0 +1,7 @@
+fastapi
+py_bip39_bindings==0.1.11
+robonomics-interface 
+IPFS-Toolkit
+substrateinterface
+uvicorn
+# python3 -m pip install -r requirements.txt
